@@ -1,0 +1,22 @@
+{
+  "name": "sdm-app",
+  "version": "1.0.0",
+  "description": "this is simple vijay sales application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayGit9527/sdm-App.git"
+  },
+  "author": "Bhavanjay Depe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayGit9527/sdm-App/issues"
+  },
+  "homepage": "https://github.com/JayGit9527/sdm-App#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
